@@ -1,0 +1,31 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/j4dream/frontend_basic",
+  "authors": [
+    "j4dream"
+  ],
+  "description": "just for test",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "mit",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.1.0",
+    "angular": "~1.2.21",
+    "requirejs": "~2.1.14"
+  }
+}
